@@ -1,1 +1,1 @@
-# Panthol
+# Panther
